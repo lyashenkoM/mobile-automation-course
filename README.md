@@ -1,1 +1,1 @@
-# mobile-automation-course
+# mobile Automation Course
